@@ -13,4 +13,5 @@ https://drive.google.com/file/d/1eZTnEC12FEPtLO8o2-m0e-Ql1PLyS-Bz/view?usp=drive
 
 https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/tencent-hunyuan3d%20tool.zip?download=true
 https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/hunyuan3d-2.1.rar?download=true
+
 4.vision language model
