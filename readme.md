@@ -15,3 +15,7 @@ https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/tencent-hunyuan3
 https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/hunyuan3d-2.1.rar?download=true
 
 4.vision language model
+
+https://huggingface.co/topdev007/ai-hub/resolve/main/vision-model-janhq.rar?download=true
+
+
