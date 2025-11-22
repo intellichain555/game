@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1OnCzJVYunqbRLkKjCWWOnyYWZodsY904/view?usp=drive
 
 https://drive.google.com/file/d/1eZTnEC12FEPtLO8o2-m0e-Ql1PLyS-Bz/view?usp=drive_link
 
-3.hunyuan 3D model tool (include 4 files)
+3.hunyuan 3D model tool (include 3 files)
 
 https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/tencent-hunyuan3d%20tool.zip?download=true
 https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/hunyuan3d-2.1.rar?download=true
