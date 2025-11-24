@@ -18,7 +18,7 @@ Welcome! Thanks for stopping by.
 
 ### 3. Hunyuan 3D Model Tool · 3 files · 22.6 GB · *DONE*
 - https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/tencent-hunyuan3d%20tool.zip?download=true
-- https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/hunyuan3d-2.1.rar?download=truer
+- https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/hunyuan3d-2.1.rar?download=true
 - https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/hunyuan3d-dit-v2-mini.7z
 
 ### 4. Vision Language Model · 1 file · 5.8 GB · *DONE*
