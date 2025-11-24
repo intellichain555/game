@@ -25,6 +25,7 @@ https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/hunyuan3d-dit-v2
 https://huggingface.co/topdev007/ai-hub/resolve/main/vision-model-janhq.rar?download=true
 
 5. flux 2D tool (1 file, 13.9GB) *DONE*
+
 https://huggingface.co/topdev007/ai-hub/resolve/main/model_data/flux.7z
 
 
